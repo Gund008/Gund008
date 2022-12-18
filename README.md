@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gund008&label=Profile%20views&color=0e75b6&style=flat" alt="gund008" /> </p>
 
-<p align="left"> <a href="https://twitter.com/no" target="blank"><img src="https://img.shields.io/twitter/follow/no?logo=twitter&style=for-the-badge" alt="no" /></a> </p>
-
 - 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **sukanyagund33@gmail.com**
