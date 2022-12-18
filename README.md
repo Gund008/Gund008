@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukanya</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<imag align="right" alt="coding" width="400" src="![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/106397577/208294873-b3d6e0ea-b889-476c-92fd-578e4bdb418f.gif)
+<imag align="right" alt="coding" width="400" src="https://github.com/Gund008/Gund008/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif
   ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gund008&label=Profile%20views&color=0e75b6&style=flat" alt="gund008" /> </p>
